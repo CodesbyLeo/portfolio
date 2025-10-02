@@ -28,5 +28,11 @@ export default defineConfig({
   },
   build: {
     sourcemap: true,
+      rollupOptions: {
+        external: [
+          '/img/icons/projects/tools/supabase.svg',
+          '/img/icons/projects/tools/nextjs.svg'
+        ]
+      }
   },
 })
