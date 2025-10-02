@@ -146,16 +146,16 @@
     }
   },
   "project": {
-    "logma": {
-      "contextFirstParagraph": "Logma production is a movie production company based in Rennes. Founded by Baptiste Fablet. At the start of this project, there was already a logma production site created by the company director with Wordpress.",
-      "contextSecondParagraph": "The decision was made to rebuild this site from scratch, with a simple, tried-and-tested technical stack, to try and make a website without a Framework and without someoneonce helping to make it fast and efficient.",
-      "contextThirdParagraph": "In order to make the entrepreneur autonomous in the management of this site, it was necessary to develop a back-office from which he could publish new photos, add projects and links to his videos.",
-      "goalFirst": "Redesign of website with existing graphic identity",
-      "goalSecond": "Creating a responsive website",
-      "goalThird": "Develop a back-office to manage the site",
-      "goalFourth": "Optimize SEO",
-      "goalFifth": "Improve loading speed and overall performance",
-      "goalSixth": "Put the website into production"
+    "requestwave": {
+      "contextFirstParagraph": "RequestWave is a SaaS platform designed to simplify how creative agencies and freelancers manage incoming design and development requests. Instead of juggling endless email threads, spreadsheets, and Slack messages, the platform centralizes everything into a clean, client-facing portal.",
+      "contextSecondParagraph": "The idea was to create a solution that merges project management with client communication, allowing requests to automatically generate tasks and related subtasks. Built with scalability and ease-of-use in mind, RequestWave helps teams save time, stay organized, and deliver work faster.",
+      "contextThirdParagraph": "Tech used: Supabase, Next.js, TypeScript, Tailwind, Lovable, GitHub",
+      "goalFirst": "Build a guided request form to streamline client submissions",
+      "goalSecond": "Auto-generate tasks and subtasks based on request type",
+      "goalThird": "Develop a clean, collaborative client portal interface",
+      "goalFourth": "Integrate Supabase backend for data management and authentication",
+      "goalFifth": "Optimize UX for both clients and internal teams",
+      "goalSixth": "Create scalable architecture for agency growth"
     },
     "pangaia": {
       "contextFirstParagraph": "Pangaia is an open-source application designed to raise awareness of plants.",
