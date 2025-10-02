@@ -7,17 +7,17 @@
       },
       "projects": [
         {
-          "name": "Logma Production",
-          "icon": "projects/folder-logma-icon.webp",
+          "name": "RequestWave",
+          "icon": "projects/folder-requestwave-icon.webp",
           "title": {
-            "en": "Logma Production - Showcase website",
-            "fr": "Logma Production - Site vitrine"
+            "en": "RequestWave - Creative Request Management SaaS",
+            "fr": "RequestWave - Plateforme SaaS de gestion de demandes créatives"
           },
           "date": {
-            "en": "2023 - 2 months",
-            "fr": "2023 - 2 mois"
+            "en": "2025 - Ongoing",
+            "fr": "2025 - En cours"
           },
-          "componentName": "LogmaContent",
+          "componentName": "RequestWaveContent",
           "isFocus": false,
           "isActive": false
         },

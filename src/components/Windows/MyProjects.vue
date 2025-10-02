@@ -7,7 +7,7 @@ import projectData from '@/data/projects-data.json'
 import WindowLeftMenu from '@/components/Windows/WindowLeftMenu.vue'
 import HomeserverContent from '@/components/Windows/MyProjects/HomeserverContent.vue'
 import ClenchContent from '@/components/Windows/MyProjects/ClenchContent.vue'
-import LogmaContent from '@/components/Windows/MyProjects/LogmaContent.vue'
+import RequestWaveContent from '@/components/Windows/MyProjects/RequestWaveContent.vue'
 import PangaiaContent from '@/components/Windows/MyProjects/PangaiaContent.vue'
 import Emc2Content from './MyProjects/Emc2Content.vue'
 import AidellaContent from './MyProjects/AidellaContent.vue'
@@ -75,7 +75,7 @@ const closeAllProjects = () => {
 const componentMap = {
   HomeserverContent,
   ClenchContent,
-  LogmaContent,
+  RequestWaveContent,
   PangaiaContent,
   Emc2Content,
   AidellaContent
