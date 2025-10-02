@@ -1,14 +1,8 @@
 [
   {
     "id": "myProjects",
-    "title": {
-      "en": "My Projects",
-      "fr": "Mes projets"
-    },
-    "subtitle": {
-      "en": "See all my projects",
-      "fr": "Voir tous mes projets"
-    },
+    "title": "My Projects",
+    "subtitle": "See all my projects",
     "imgSrc": "/img/icons/projects/projects-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
@@ -29,14 +23,8 @@
   },
   {
     "id": "contact",
-    "title": {
-      "en": "Contact me",
-      "fr": "Me contacter"
-    },
-    "subtitle": {
-      "en": "Leave me a message",
-      "fr": "Laissez moi un message"
-    },
+    "title": "Contact me",
+    "subtitle": "Leave me a message",
     "imgSrc": "/img/icons/contact/email-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
@@ -57,14 +45,8 @@
   },
   {
     "id": "myCV",
-    "title": {
-      "en": "My CV",
-      "fr": "Mon CV"
-    },
-    "subtitle": {
-      "en": "See the curriculum vitae",
-      "fr": "Voir le curriculum vitae"
-    },
+    "title": "My CV",
+    "subtitle": "See the curriculum vitae",
     "imgSrc": "/img/icons/cv/cv-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
@@ -85,10 +67,7 @@
   },
   {
     "id": "music",
-    "title": {
-      "en": "My Playlist!",
-      "fr": "Mes Musiques"
-    },
+    "title": "My Playlist!",
     "imgSrc": "/img/icons/music/playmusic-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
@@ -109,10 +88,7 @@
   },
   {
     "id": "documents",
-    "title": {
-      "en": "My Documents",
-      "fr": "Mes documents"
-    },
+    "title": "My Documents",
     "imgSrc": "/img/icons/documents/folder-docs-icon-sm.webp",
     "onDesktop": false,
     "resizable": true,
@@ -133,10 +109,7 @@
   },
   {
     "id": "pictures",
-    "title": {
-      "en": "My Pictures",
-      "fr": "Mes Images"
-    },
+    "title": "My Pictures",
     "imgSrc": "/img/icons/pictures/folder-images-icon-sm.webp",
     "onDesktop": false,
     "resizable": true,
@@ -157,10 +130,7 @@
   },
   {
     "id": "calendar",
-    "title": {
-      "en": "Calendar",
-      "fr": "Calendrier"
-    },
+    "title": "Calendar",
     "imgSrc": "/img/icons/calendar/calendar-icon-lg.webp",
     "onDesktop": false,
     "resizable": true,
@@ -181,10 +151,7 @@
   },
   {
     "id": "minesweeper",
-    "title": {
-      "en": "Minesweeper",
-      "fr": "Démineur"
-    },
+    "title": "Minesweeper",
     "imgSrc": "/img/icons/minesweeper/minesweeper-icon-lg.webp",
     "onDesktop": true,
     "resizable": false,
@@ -205,10 +172,7 @@
   },
   {
     "id": "notepad",
-    "title": {
-      "en": "Notepad",
-      "fr": "Bloc-notes"
-    },
+    "title": "Notepad",
     "imgSrc": "/img/icons/notepad/notepad-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
@@ -229,14 +193,8 @@
   },
   {
     "id": "doom",
-    "title": {
-      "en": "Doom",
-      "fr": "Doom"
-    },
-    "subtitle": {
-      "en": "Play doom thanks to js-dos",
-      "fr": "Jouer à doom grâce à js-dos"
-    },
+    "title": "Doom",
+    "subtitle": "Play doom thanks to js-dos",
     "imgSrc": "/img/icons/doom/doom-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
@@ -257,14 +215,8 @@
   },
   {
     "id": "terminal",
-    "title": {
-      "en": "Terminal",
-      "fr": "Terminal"
-    },
-    "subtitle": {
-      "en": "Run commands using the terminal",
-      "fr": "Lancer des commandes avec le terminal"
-    },
+    "title": "Terminal",
+    "subtitle": "Run commands using the terminal",
     "imgSrc": "/img/icons/cmd-icon-lg.webp",
     "onDesktop": false,
     "resizable": true,

@@ -1,22 +1,13 @@
 {
   "categories": [
     {
-      "name": {
-        "en": "Websites",
-        "fr": "Sites web"
-      },
+      "name": "Websites",
       "projects": [
         {
           "name": "RequestWave",
           "icon": "projects/folder-requestwave-icon.webp",
-          "title": {
-            "en": "RequestWave - Creative Request Management SaaS",
-            "fr": "RequestWave - Plateforme SaaS de gestion de demandes créatives"
-          },
-          "date": {
-            "en": "2025 - Ongoing",
-            "fr": "2025 - En cours"
-          },
+          "title": "RequestWave - Creative Request Management SaaS",
+          "date": "2025 - Ongoing",
           "componentName": "RequestWaveContent",
           "isFocus": false,
           "isActive": false
@@ -24,14 +15,8 @@
         {
           "name": "Pangaia",
           "icon": "projects/folder-pangaia-icon.webp",
-          "title": {
-            "en": "Pangaia - Web Application",
-            "fr": "Pangaia - Application web"
-          },
-          "date": {
-            "en": "2023 - Current",
-            "fr": "2023 - Actuel"
-          },
+          "title": "Pangaia - Web Application",
+          "date": "2023 - Current",
           "componentName": "PangaiaContent",
           "isFocus": false,
           "isActive": false
@@ -39,14 +24,8 @@
         {
           "name": "Clench",
           "icon": "projects/folder-clench-icon.webp",
-          "title": {
-            "en": "Clench - Web Application",
-            "fr": "Clench - Application web"
-          },
-          "date": {
-            "en": "2024 - 1 weeks",
-            "fr": "2024 - 1 semaines"
-          },
+          "title": "Clench - Web Application",
+          "date": "2024 - 1 weeks",
           "componentName": "ClenchContent",
           "isFocus": false,
           "isActive": false
@@ -54,14 +33,8 @@
         {
           "name": "EMC2 (ScreenUp)",
           "icon": "projects/folder-emc2-icon.webp",
-          "title": {
-            "en": "L'EMC2 - Wordpress website (ScreenUp)",
-            "fr": "L'EMC2 - Site Wordpress (ScreenUp)"
-          },
-          "date": {
-            "en": "2024 - 1 month",
-            "fr": "2024 - 1 mois"
-          },
+          "title": "L'EMC2 - Wordpress website (ScreenUp)",
+          "date": "2024 - 1 month",
           "componentName": "Emc2Content",
           "isFocus": false,
           "isActive": false
@@ -69,14 +42,8 @@
         {
           "name": "Aidella",
           "icon": "projects/folder-aidella-icon.webp",
-          "title": {
-            "en": "Les Terres d'Aidella - Blog website",
-            "fr": "Les Terres d'Aidella - Site web / Blog"
-          },
-          "date": {
-            "en": "2025 - 3 weeks",
-            "fr": "2025 - 3 semaines"
-          },
+          "title": "Les Terres d'Aidella - Blog website",
+          "date": "2025 - 3 weeks",
           "componentName": "AidellaContent",
           "isFocus": false,
           "isActive": false
@@ -84,22 +51,13 @@
       ]
     },
     {
-      "name": {
-        "en": "Servers",
-        "fr": "Serveurs"
-      },
+      "name": "Servers",
       "projects": [
         {
           "name": "Homeserver",
           "icon": "projects/homeserver-icon.webp",
-          "title": {
-            "en": "Application server & NAS",
-            "fr": "Serveur d'application & stockage NAS"
-          },
-          "date": {
-            "en": "2023 - Current",
-            "fr": "2023 - Actuel"
-          },
+          "title": "Application server & NAS",
+          "date": "2023 - Current",
           "componentName": "HomeserverContent",
           "isFocus": false,
           "isActive": false
