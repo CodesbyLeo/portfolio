@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         NODE_ENV = 'production'
-        DOCKER_REGISTRY = 'unmugviolet'
+    DOCKER_REGISTRY = '@ProjectsbyLeo'
         DOCKER_BUILDKIT = '0'
     }
     tools {
@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('SCM') {
             steps {
-                git url: 'https://github.com/UnMugViolet/portfolio.git', branch: 'main'
+                git url: 'https://github.com/codesbyleoo/portfolio.git', branch: 'main'
             }
         }
 

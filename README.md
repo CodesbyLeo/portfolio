@@ -3,9 +3,9 @@
 
 [![Quality Gate Status](https://sonarqube.rocketegg.systems/api/project_badges/measure?project=PortfolioXp&metric=alert_status&token=sqb_c0b5f74b6c031ae2f329c6c588e3c8bc48556788)](https://sonarqube.rocketegg.systems/dashboard?id=PortfolioXp)
 [![Lines of Code](https://sonarqube.rocketegg.systems/api/project_badges/measure?project=PortfolioXp&metric=ncloc&token=sqb_c0b5f74b6c031ae2f329c6c588e3c8bc48556788)](https://sonarqube.rocketegg.systems/dashboard?id=PortfolioXp)
-![GitHub package.json ](https://img.shields.io/github/package-json/v/UnMugViolet/portfolio/main)
-![GitHub repo size](https://img.shields.io/github/repo-size/UnMugViolet/portfolio)
-![GitHub License](https://img.shields.io/github/license/UnMugViolet/portfolio)
+![GitHub package.json ](https://img.shields.io/github/package-json/v/@ProjectsbyLeo/portfolio/main)
+![GitHub repo size](https://img.shields.io/github/repo-size/@ProjectsbyLeo/portfolio)
+![GitHub License](https://img.shields.io/github/license/@ProjectsbyLeo/portfolio)
 
 ## 🌐 Website
 
@@ -92,7 +92,7 @@ See the Docker compose file bellow for deployement.
 ```yml
 services:
   portfolio-xp:
-    image: unmugviolet/portfolio-xp:latest
+  image: @ProjectsbyLeo/portfolio-xp:latest
     container_name: portfolio_xp
     ports:
       - "35000:35000"
