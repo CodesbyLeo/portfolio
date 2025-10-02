@@ -31,7 +31,8 @@ export default defineConfig({
       rollupOptions: {
         external: [
           '/img/icons/projects/tools/supabase.svg',
-          '/img/icons/projects/tools/nextjs.svg'
+          '/img/icons/projects/tools/nextjs.svg',
+          '/img/icons/projects/tools/typescript.svg'
         ]
       }
   },
